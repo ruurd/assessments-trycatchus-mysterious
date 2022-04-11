@@ -1,8 +1,8 @@
 GIT
-  remote: git://github.com/thebestday/delayed-web.git
-  revision: 5846bf680da6c08eb7817cb5ca48bca7dab929c7
+  remote: https://github.com/thebestday/delayed-web.git
+  revision: eb28eac8c1c1a03e24ba50288b28e908c7de272f
   specs:
-    delayed-web (0.4.6)
+    delayed-web (0.4.9)
       rails (>= 3.2.13)
 
 GEM
@@ -243,18 +243,18 @@ GEM
       nokogiri (~> 1)
       rake
     mini_mime (1.0.2)
-    mini_portile2 (2.6.1)
+    mini_portile2 (2.8.0)
     minitest (5.13.0)
     multi_json (1.14.1)
     multi_test (0.1.2)
     nio4r (2.5.2)
-    nokogiri (1.12.5)
-      mini_portile2 (~> 2.6.1)
+    nokogiri (1.13.4)
+      mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     orm_adapter (0.5.0)
     pg (1.1.4)
     public_suffix (4.0.6)
-    racc (1.5.2)
+    racc (1.6.0)
     rack (2.2.3)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
