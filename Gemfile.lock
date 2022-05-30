@@ -1,8 +1,8 @@
 GIT
-  remote: git://github.com/thebestday/delayed-web.git
-  revision: 5846bf680da6c08eb7817cb5ca48bca7dab929c7
+  remote: https://github.com/thebestday/delayed-web.git
+  revision: eb28eac8c1c1a03e24ba50288b28e908c7de272f
   specs:
-    delayed-web (0.4.6)
+    delayed-web (0.4.9)
       rails (>= 3.2.13)
 
 GEM
@@ -255,7 +255,7 @@ GEM
     pg (1.1.4)
     public_suffix (4.0.6)
     racc (1.5.2)
-    rack (2.2.3)
+    rack (2.2.3.1)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails (6.0.0)
